@@ -1,4 +1,5 @@
 Use GPT 5.3 Codex
+----
 
 Build me a comprehensive Python SEO and AI Search Optimization audit tool that crawls a given website URL (up to 50 pages deep) and generates a detailed HTML report. The tool should analyze three categories:
 PART 1 — TECHNICAL SEO
