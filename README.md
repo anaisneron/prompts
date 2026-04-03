@@ -31,7 +31,7 @@ T'as un prompt killer que tu veux partager? PRs bienvenues!
 
 ## 📬 Contact
 
-**Anaïs Néron** — Co-fondatrice, [Agence 3A](https://agence3a.ca)
+**Anaïs Néron** — Fondatrice, [Agence 3A](https://agence3a.ca)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaisneron)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@anais_neron)
